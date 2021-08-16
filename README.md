@@ -6,6 +6,6 @@
 
 Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks @ University of Technology Yatanarpon Cyber City
 
-![Here's my github stats]
-https://github-readme-stats.vercel.app/api?username=saphyothuhtet
+### My stats
+![Here's my github stats](https://github-readme-stats.vercel.app/api?username=htutwaiphyoe)
 
