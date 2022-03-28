@@ -1,4 +1,4 @@
-### Artificial Intelligence + Education + Entrepreneurship
+### Artificial Intelligence | Education | Entrepreneurship
 
 - 👋 Hi, I’m @SaPhyoThuHtet.
 - 👀 I’m interested in AI, Data Science, NLP, AI Ethics,and Data Ethics.
