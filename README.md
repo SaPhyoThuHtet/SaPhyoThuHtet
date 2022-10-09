@@ -12,3 +12,4 @@ Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaPhyoThuHtet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaPhyoThuHtet&" alt="SaPhyoThuHtet" /></p>
