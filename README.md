@@ -10,3 +10,6 @@ Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks
 ### My stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaPhyoThuHtet&" alt="SaPhyoThuHtet" /></p>
+
+![Snake animation](substitute my username to yours in the link here)
+
