@@ -6,5 +6,6 @@
 - 📫 How to reach me ... phyothuhtet.ai@gmail.com.
 
 Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks @ University of Technology Yatanarpon Cyber City
+AIT
 
 
